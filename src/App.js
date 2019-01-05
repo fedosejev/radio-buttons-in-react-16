@@ -30,6 +30,7 @@ class App extends Component {
                 <label>
                   <input
                     type="radio"
+                    name="react-tips"
                     value="option1"
                     checked={this.state.selectedOption === "option1"}
                     onChange={this.handleOptionChange}
@@ -42,6 +43,7 @@ class App extends Component {
                 <label>
                   <input
                     type="radio"
+                    name="react-tips"
                     value="option2"
                     checked={this.state.selectedOption === "option2"}
                     onChange={this.handleOptionChange}
@@ -54,6 +56,7 @@ class App extends Component {
                 <label>
                   <input
                     type="radio"
+                    name="react-tips"
                     value="option3"
                     checked={this.state.selectedOption === "option3"}
                     onChange={this.handleOptionChange}
