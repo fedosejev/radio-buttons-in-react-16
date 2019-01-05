@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/radio-buttons-in-react-16/precache-manifest.3119cbd5b3d0ddb7fba9625fbae09871.js"
+  "/radio-buttons-in-react-16/precache-manifest.a82aadb169f5ef236986fad83fe60df2.js"
 );
 
 workbox.clientsClaim();
